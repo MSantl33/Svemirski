@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e6fde73b1868c37458e377df7c484538
+timeCreated: 1591362907
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CHICKEN Pie Height
+  fontNames:
+  - CHICKEN Pie Height
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7b9625fba3fda0541ab3b28d080788ab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
