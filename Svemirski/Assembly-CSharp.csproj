@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\KontrolaIgraca.cs" />
      <Compile Include="Assets\LevelMenager.cs" />
+     <Compile Include="Assets\MusicPlaer.cs" />
      <Compile Include="Assets\NeprijateljSpawner.cs" />
      <Compile Include="Assets\PonasanjeNeprijatelja.cs" />
      <Compile Include="Assets\Pozicija.cs" />
