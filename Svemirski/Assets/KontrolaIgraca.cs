@@ -24,6 +24,8 @@ public class KontrolaIgraca : MonoBehaviour {
 	}
 
 	void Die(){
+		LevelMenager man = GameObject.Find ("LevelMenager").GetComponent<LevelMenager> ();
+		man.LoadLevel ("Win");
 		Destroy (gameObject);
 	}
 
