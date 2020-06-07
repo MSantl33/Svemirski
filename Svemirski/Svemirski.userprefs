@@ -1,14 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\KontrolaIgraca.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MusicPlaer.cs">
     <Files>
-      <File FileName="Assets\KontrolaIgraca.cs" Line="29" Column="24" />
-      <File FileName="Assets\NeprijateljSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\KontrolaIgraca.cs" Line="59" Column="3" />
+      <File FileName="Assets\NeprijateljSpawner.cs" Line="71" Column="25" />
       <File FileName="Assets\Pozicija.cs" Line="1" Column="1" />
       <File FileName="Assets\drobilica.cs" Line="1" Column="1" />
       <File FileName="Assets\Projektil.cs" Line="1" Column="1" />
-      <File FileName="Assets\PonasanjeNeprijatelja.cs" Line="1" Column="1" />
-      <File FileName="Assets\LevelMenager.cs" Line="1" Column="1" />
+      <File FileName="Assets\PonasanjeNeprijatelja.cs" Line="38" Column="68" />
+      <File FileName="Assets\LevelMenager.cs" Line="11" Column="1" />
+      <File FileName="Assets\MusicPlaer.cs" Line="9" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
